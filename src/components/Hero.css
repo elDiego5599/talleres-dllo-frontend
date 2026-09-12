@@ -1,0 +1,42 @@
+.hero {
+  background: linear-gradient(120deg, #1b1b40 20%, #143063 90%);
+  text-align: center;
+  padding: 110px 20px 120px;
+}
+
+.hero h1 {
+  color: white;
+  font-size: 58px;
+  font-weight: 800;
+  margin: 0 0 22px;
+}
+
+.hero h1 span {
+  color: #f43f5e;
+}
+
+.hero p {
+  color: #b9bed2;
+  font-size: 20px;
+  max-width: 640px;
+  margin: 0 auto;
+  line-height: 1.5;
+}
+
+.hero a {
+  display: inline-block;
+  background-color: #f43f5e;
+  color: white;
+  font-weight: 700;
+  font-size: 17px;
+  text-decoration: none;
+  border-radius: 999px;
+  padding: 14px 46px;
+  margin-top: 38px;
+}
+
+@media (max-width: 600px) {
+  .hero h1 {
+    font-size: 38px;
+  }
+}

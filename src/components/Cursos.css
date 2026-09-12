@@ -1,0 +1,26 @@
+.cursos {
+  background-color: #f6f7fb;
+  text-align: center;
+  padding: 80px 20px 90px;
+}
+
+.cursos h2 {
+  color: #1d1d33;
+  font-size: 32px;
+  margin: 0 0 10px;
+}
+
+.subtitulo {
+  color: #77778c;
+  font-size: 16px;
+  margin: 0 0 44px;
+}
+
+.lista {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 24px;
+  max-width: 1180px;
+  margin: 0 auto;
+}

@@ -1,0 +1,53 @@
+.contador {
+  background-color: #131332;
+  text-align: center;
+  padding: 88px 20px 100px;
+}
+
+.contador h2 {
+  color: white;
+  font-size: 32px;
+  margin: 0 0 12px;
+}
+
+.ayuda {
+  color: #a3a8c0;
+  font-size: 16px;
+  margin: 0;
+}
+
+.caja {
+  background-color: #1b2c55;
+  border-radius: 16px;
+  display: inline-flex;
+  align-items: center;
+  gap: 46px;
+  padding: 26px 58px;
+  margin-top: 42px;
+}
+
+.caja button {
+  background-color: #f43f5e;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 56px;
+  height: 56px;
+  font-size: 26px;
+  cursor: pointer;
+  line-height: 1;
+}
+
+.numero {
+  color: #f43f5e;
+  font-size: 54px;
+  font-weight: 800;
+  margin: 0;
+  min-width: 60px;
+}
+
+.pie {
+  color: #8d93ad;
+  font-size: 14px;
+  margin: 18px 0 0;
+}
