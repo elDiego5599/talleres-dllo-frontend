@@ -1,3 +1,5 @@
+import './Tarjeta.css'
+
 function Tarjeta({ icono, titulo, texto, nivel }) {
   return (
     <div className="tarjeta">
